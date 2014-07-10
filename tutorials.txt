@@ -1,0 +1,2 @@
+Allow python script to take arguments on command line.
+http://www.tutorialspoint.com/python/python_command_line_arguments.htm
